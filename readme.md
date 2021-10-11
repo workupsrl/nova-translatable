@@ -19,13 +19,13 @@ https://github.com/spatie/nova-translatable
 You can require this package using composer:
 
 ```
-composer require mrmonat/nova-translatable
+composer require workup/nova-translatable
 ```
 
 You can add the field follows:
 
 ```
-use MrMonat\Translatable\Translatable;
+use Workup\Translatable\Translatable;
 
 Translatable::make('Description'),
 ```
